@@ -73,7 +73,7 @@ dog.bark=function(){
 
 //Store the result of invoking the bark method in a variable called ruff.
 
-var ruff=dog.bark
+var ruff=dog.bark()
 
 //////////////////PROBLEM 6////////////////////
 
